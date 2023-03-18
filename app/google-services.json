@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127251977340",
+    "project_id": "itemmarket-880e8",
+    "storage_bucket": "itemmarket-880e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127251977340:android:89e58e2e4d5f8f70e765f9",
+        "android_client_info": {
+          "package_name": "com.smg.itemmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127251977340-t6i4uv0gg165t40f99p531o82uso9lli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4gTp5cbEHNgrpKNMUbDNtBgvnHodun8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127251977340-t6i4uv0gg165t40f99p531o82uso9lli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
